@@ -1,0 +1,1 @@
+# InsightNavigator-Analytics
